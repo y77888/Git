@@ -94,14 +94,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="482" y="21" key="CommitChangelistDialog2" timestamp="1575851900529">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="482" y="21" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1575851900529" />
     <state x="368" y="79" key="SettingsEditor" timestamp="1575851179756">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="368" y="79" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1575851179756" />
-    <state x="471" y="172" key="Vcs.Push.Dialog.v2" timestamp="1575851803655">
+    <state x="471" y="172" key="Vcs.Push.Dialog.v2" timestamp="1575851905550">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="471" y="172" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1575851803655" />
+    <state x="471" y="172" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1575851905550" />
     <state x="784" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575851544499">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
