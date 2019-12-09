@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="415d58be-c9a2-43e8-8dc8-aa99160a4a54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_y/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_y/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_y/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_y/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_y/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_y/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_y/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_y/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Git.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Git/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/y77888/Git.git" />
+      </set>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app1/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app_y/views.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1UitGoUSCRw9MtDxiO9XMl1CFpy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="415d58be-c9a2-43e8-8dc8-aa99160a4a54" name="Default Changelist" comment="" />
+      <created>1575851150690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575851150690</updated>
+      <workItem from="1575851152071" duration="723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="79" key="SettingsEditor" timestamp="1575851179756">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="368" y="79" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1575851179756" />
+    <state x="471" y="172" key="Vcs.Push.Dialog.v2" timestamp="1575851803655">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="471" y="172" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1575851803655" />
+    <state x="784" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575851544499">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="784" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1575851544499" />
+    <state x="609" y="230" key="git4idea.merge.GitPullDialog" timestamp="1575851717528">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="609" y="230" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1575851717528" />
+  </component>
+</project>
